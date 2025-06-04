@@ -1,4 +1,4 @@
-﻿# Web API Project:<p/>Human Resource Management for IT Company
+﻿# Web API Project:<p/>PeoplePulse HR API
 
 This project building on **.NET 7**, using for Human Resource Management for IT Company.
 
@@ -33,7 +33,6 @@ This project building on **.NET 7**, using for Human Resource Management for IT 
 
 * Unit of Work
 * Generic Repository
-* Request-Reply
 * Inversion of Control / Dependency injection
 
 ## Getting Started
@@ -56,7 +55,3 @@ This project building on **.NET 7**, using for Human Resource Management for IT 
  + Username: **admin**
  + Password: **c93ccd78b2076528346216b3b2f701e6** (plain-text: admin1234) (hash function: MD5)
 2. Get your access token
-
-## License
-
-This project is licensed with the [MIT license](LICENSE).
